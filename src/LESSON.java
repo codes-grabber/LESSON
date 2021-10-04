@@ -8,6 +8,7 @@ public class LESSON {
         int c;
         if(c >= 10 && c <= 20){ //java: variable c might not have been initialized
             return true;
+
         } else return false;
     }
     public static String myAnotherMethod(int c){
